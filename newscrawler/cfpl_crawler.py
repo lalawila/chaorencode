@@ -1,27 +1,21 @@
-from tqdm import tqdm
 import requests
 
-import re
-
 import newspaper
-# 词频统计库
 import collections  
-# numpy 库
-import numpy as np  
-# 结巴分词
+import numpy as np
 import jieba
 import jieba.posseg as pseg
-# 词云展示库
 import wordcloud 
 from PIL import Image
 
 
-# stop_words = open('baidu_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
-# stop_words += open('cn_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
-# stop_words += open('hit_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
-# stop_words += open('scu_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
+# stop_words = open('stopwords/baidu_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
+# stop_words += open('stopwords/cn_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
+# stop_words += open('stopwords/hit_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
+# stop_words += open('stopwords/scu_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
 
-stop_words = ['明星', '老公', '王']
+stop_words = ['明星', '老公', '王', '连']
+
 add_words = [
     '阿朵',
     '郑希怡',
@@ -55,14 +49,13 @@ add_words = [
     '李斯丹妮'
 ]
 
-[jieba.del_word(word) for word in stop_words]
 [jieba.add_word(word, tag='nr') for word in add_words]
 
 url = 'https://pacaio.match.qq.com/irs/rcd?cid=146&token=49cbb2154853ef1a74ff4e53723372ce&ext=ent&page=%s'
 
 links = []
 
-for page in range(10):
+for page in range(1):
     print('get page: %s' % page)
     response = requests.get(url % page)
     links += [data['vurl'] for data in response.json()['data']]
@@ -91,9 +84,10 @@ for link in links:
         # pattern = re.compile(r'《(*)》', re.I)
         # words += pattern.findall(content)
     
-        for word in pseg.cut(content):
-            if 'nr' == word.flag:
-                words.append(word.word)
+        for cuted in pseg.cut(content):
+            if 'nr' == cuted.flag and cuted.word not in stop_words:
+                words.append(cuted.word)
+
 
 # links = [
 #     'https://www.qq.com/',
@@ -138,19 +132,19 @@ for link in links:
                 # if 'n' in word.flag and word.word not in stop_words:
                 #     words.append(word.word)
 
-mask = np.array(Image.open('china.jpg'))
+mask = np.array(Image.open('girl.jpg'))
 wc = wordcloud.WordCloud(
     font_path='C:/Windows/Fonts/simhei.ttf',
     mask=mask,
-    max_words=200,
+    max_words=100,
     mode='RGBA',
-    background_color='#FFF',
+    background_color=None,
     max_font_size=120
 )
 
 word_counts = collections.Counter(words)
 
-print(word_counts.most_common(100))
+[print('%s: %s' % (name, count)) for name, count in word_counts.most_common(20)]
 
 wc.generate_from_frequencies(word_counts)
 
