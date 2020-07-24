@@ -1,6 +1,8 @@
 from tqdm import tqdm
 import requests
 
+import re
+
 import newspaper
 # 词频统计库
 import collections  
@@ -19,13 +21,49 @@ from PIL import Image
 # stop_words += open('hit_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
 # stop_words += open('scu_stopwords.txt', 'r', encoding='utf-8').read().split('\n')
 
-stop_words = []
+stop_words = ['明星', '老公', '王']
+add_words = [
+    '阿朵',
+    '郑希怡',
+    '宁静',
+    '陈松伶',
+    '钟丽缇',
+    '伊能静',
+    '海陆',
+    '金晨',
+    '蓝盈莹',
+    '王丽坤',
+    '万茜',
+    '张萌',
+    '金莎',
+    '刘芸',
+    '沈梦辰',
+    '吴昕',
+    '郁可唯',
+    '朱婧汐',
+    '丁当',
+    '黄龄',
+    '孟佳',
+    '王霏霏',
+    '许飞',
+    '袁咏琳',
+    '张雨绮',
+    '黄圣依',
+    '张含韵',
+    '王智',
+    '白冰',
+    '李斯丹妮'
+]
 
-url = 'https://pacaio.match.qq.com/irs/rcd?cid=52&token=8f6b50e1667f130c10f981309e1d8200&ext=106,118,108&page=%s'
+[jieba.del_word(word) for word in stop_words]
+[jieba.add_word(word, tag='nr') for word in add_words]
+
+url = 'https://pacaio.match.qq.com/irs/rcd?cid=146&token=49cbb2154853ef1a74ff4e53723372ce&ext=ent&page=%s'
 
 links = []
 
-for page in range(50):
+for page in range(10):
+    print('get page: %s' % page)
     response = requests.get(url % page)
     links += [data['vurl'] for data in response.json()['data']]
 
@@ -45,12 +83,16 @@ for link in links:
         content = paper.title + paper.text
         if not content:
             continue
+    
+        if '浪姐' not in content and '乘风破浪' not in content:
+            continue
 
         print(paper.title)
-
-        for word in pseg.cut(paper.text):
+        # pattern = re.compile(r'《(*)》', re.I)
+        # words += pattern.findall(content)
+    
+        for word in pseg.cut(content):
             if 'nr' == word.flag:
-            # if 'n' in word.flag and word.word not in stop_words:
                 words.append(word.word)
 
 # links = [
@@ -102,7 +144,7 @@ wc = wordcloud.WordCloud(
     mask=mask,
     max_words=200,
     mode='RGBA',
-    background_color=None,
+    background_color='#FFF',
     max_font_size=120
 )
 
