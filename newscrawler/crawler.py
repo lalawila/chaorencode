@@ -49,13 +49,20 @@ url = 'https://pacaio.match.qq.com/irs/rcd?cid=146&token=49cbb2154853ef1a74ff4e5
 
 links = []
 
-for page in range(10):
+for page in range(500):
     print('get page: %s' % page)
-    response = requests.get(url % page)
-    links += [data['vurl'] for data in response.json()['data']]
+    try:
+        response = requests.get(url % page)
+    except Exception:
+        continue
+    else:
+        links += [data['vurl'] for data in response.json()['data']]
 
 words = []
 
+print('amount of links：%s' %len(links))
+
+count = 0
 
 for link in links:
     # 获取文章
@@ -74,7 +81,8 @@ for link in links:
         if '浪姐' not in content and '乘风破浪' not in content:
             continue
 
-        print(paper.title)
+        count += 1
+        print('%s：%s' % (count, paper.title))
         for cuted in pseg.cut(content):
             if 'nr' == cuted.flag and cuted.word not in stop_words:
                 words.append(cuted.word)
