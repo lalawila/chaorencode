@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T05:56:41.748Z" agent="5.0 (Windows)" etag="3T749n3nQZMAsw_FHw91" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T06:50:38.282Z" agent="5.0 (Windows)" etag="OTOe0eoYi1elDCV1cDeg" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,20 +43,20 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-22" value="此时应接触一些日常" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="480" width="375" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-23" value="&lt;p style=&quot;line-height: 150%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="570" width="245" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-37" value="&lt;p style=&quot;line-height: 120%&quot;&gt;以语法基础和数据结构为主，&lt;br&gt;在学习上应求泛而全但不求精，&lt;br&gt;不管什么求职意向的同学在这里都要学一样的东西。&lt;/p&gt;" style="text;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;fontColor=#4D4D4D;labelBackgroundColor=none;spacingTop=0;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="400" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-38" value="&lt;div&gt;书：&lt;/div&gt;&lt;div&gt;python web实战&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="570" width="245" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-39" value="&lt;div&gt;鸟哥linux私房菜&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="250" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-40" value="&lt;p&gt;英语&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span lang=&quot;EN-US&quot;&gt;Python&lt;/span&gt;语法&lt;/p&gt;&lt;p&gt;数据结构&lt;/p&gt;&lt;p&gt;&lt;span lang=&quot;EN-US&quot;&gt;Mysql&lt;/span&gt;、&lt;span lang=&quot;EN-US&quot;&gt;postgresql&lt;/span&gt;、&lt;span lang=&quot;EN-US&quot;&gt;redis&lt;/span&gt;等数据库&lt;/p&gt;&lt;p&gt;&lt;span lang=&quot;EN-US&quot;&gt;Linux&lt;/span&gt;操作系统&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;html=1;&#xa;lineHeight=20px;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="240" height="140" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-40" value="&lt;p style=&quot;line-height: 120%&quot;&gt;英语&lt;br&gt;Python语法&lt;br&gt;数据结构&lt;br&gt;Mysql、postgresql、redis等数据库&lt;br&gt;Linux操作系统&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="235" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UAcBqdveJcMJWKJadwkK-41" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="570" width="235" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UAcBqdveJcMJWKJadwkK-42" value="&lt;div&gt;pythonweb实战&lt;/div&gt;&lt;div&gt;我我欠&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="570" width="235" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
