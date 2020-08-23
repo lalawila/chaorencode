@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T08:40:26.434Z" agent="5.0 (Windows)" etag="cKIcakfgA7E3P2ejVAhh" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T08:43:01.417Z" agent="5.0 (Windows)" etag="ZQ0Oz7D7bsAZ5yJJaeaP" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
-    <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-2" value="&lt;font size=&quot;1&quot; color=&quot;#004C99&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;Python学习之路&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="355" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-3" value="&lt;p style=&quot;line-height: 120%&quot;&gt;以语法基础和数据结构为主，&lt;br&gt;在学习上应求泛而全但不求精，&lt;br&gt;不管什么求职意向的同学在这里都要学一样的东西。&lt;/p&gt;" style="text;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;fontColor=#4D4D4D;labelBackgroundColor=none;spacingTop=0;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-3" value="&lt;p style=&quot;line-height: 120%&quot;&gt;以语法基础和数据结构为主，&lt;br&gt;在学习上应求泛而全但不求精，&lt;br&gt;不管什么求职意向的同学在这里都要学。&lt;/p&gt;" style="text;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;fontColor=#4D4D4D;labelBackgroundColor=none;spacingTop=0;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-6" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,9 +43,6 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-22" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="470" width="375" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-37" value="&lt;p style=&quot;line-height: 120%&quot;&gt;以语法基础和数据结构为主，&lt;br&gt;在学习上应求泛而全但不求精，&lt;br&gt;不管什么求职意向的同学在这里都要学一样的东西。&lt;/p&gt;" style="text;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;fontColor=#4D4D4D;labelBackgroundColor=none;spacingTop=0;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="120" width="400" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-39" value="&lt;div&gt;英语四级&lt;br&gt;&lt;/div&gt;&lt;div&gt;鸟哥linux私房菜&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="240" width="195" height="50" as="geometry" />
         </mxCell>
@@ -55,8 +52,8 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-41" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="570" width="235" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-42" value="hb" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="570" width="235" height="40" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-42" value="&lt;div&gt;django、flask、tonador官方文档&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="570" width="235" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
