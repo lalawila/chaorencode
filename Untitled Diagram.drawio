@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T09:54:04.981Z" agent="5.0 (Windows)" etag="7d4jcZQVVZVKLmu0PKT2" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T12:43:41.720Z" agent="5.0 (Windows)" etag="JC1bXfdWvezPiz3HlrLL" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,19 +128,19 @@
           <mxGeometry x="197.5" y="1160" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-119" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="1290" width="85" height="20" as="geometry" />
+          <mxGeometry x="447.5" y="1260" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-120" value="后端工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="1190" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-121" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="202.5" y="1290" width="85" height="20" as="geometry" />
+          <mxGeometry x="202.5" y="1260" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-122" value="&lt;div&gt;要成长为一个团队的负责人，&lt;/div&gt;&lt;div&gt;此时不应局限于后端，应同时接触并学习前端的一些框架与概念，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="1210" width="375" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-123" value="&lt;p style=&quot;line-height: 120%&quot;&gt;熟读django、flask、tornado源码&lt;/p&gt;&lt;p style=&quot;line-height: 120%&quot;&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="202.5" y="1300" width="235" height="90" as="geometry" />
+          <mxGeometry x="202.5" y="1270" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-125" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="1510" width="85" height="20" as="geometry" />
@@ -169,7 +169,7 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-133" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="1720" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-134" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-134" value="研究原码，管理测试团队为主。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="1675" width="375" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-135" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -179,7 +179,7 @@
           <mxGeometry x="452.5" y="1735" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-138" value="《python源码剖析》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="1310" width="235" height="50" as="geometry" />
+          <mxGeometry x="447.5" y="1280" width="235" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
