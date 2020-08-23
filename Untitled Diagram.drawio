@@ -1,176 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T09:24:45.210Z" agent="5.0 (Windows)" etag="L51c2xbXUFulm1zB-2jC" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T09:37:57.929Z" agent="5.0 (Windows)" etag="fzs3Wky8zq6KoE4RQBdq" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
-    <mxGraphModel dx="2370" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UAcBqdveJcMJWKJadwkK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="30" y="100" width="790" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-65" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="770" height="250" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-65" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="40" y="139" width="770" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="UAcBqdveJcMJWKJadwkK-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAcBqdveJcMJWKJadwkK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="790" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-64" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-64" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="40" y="1010" width="770" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-63" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-63" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="770" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-56" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-56" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="40" y="444" width="770" height="256" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UAcBqdveJcMJWKJadwkK-5" target="UAcBqdveJcMJWKJadwkK-7">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="UAcBqdveJcMJWKJadwkK-5" target="UAcBqdveJcMJWKJadwkK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-1" value="初学阶段" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-1" value="初学阶段" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="50" y="110" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-2" value="&lt;font size=&quot;1&quot; color=&quot;#004C99&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;Python学习之路&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-2" value="&lt;font size=&quot;1&quot; color=&quot;#004C99&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;Python学习之路&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="355" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-3" value="&lt;p style=&quot;line-height: 120%&quot;&gt;以语法基础和数据结构为主，&lt;br&gt;在学习上应求泛而全但不求精，&lt;br&gt;不管什么求职意向的同学在这里都要学。&lt;/p&gt;" style="text;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;fontColor=#4D4D4D;labelBackgroundColor=none;spacingTop=0;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-3" value="&lt;p style=&quot;line-height: 120%&quot;&gt;以语法基础和数据结构为主，&lt;br&gt;在学习上应求泛而全但不求精，&lt;br&gt;不管什么求职意向的同学在这里都要学。&lt;/p&gt;" style="text;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;labelPosition=center;verticalLabelPosition=middle;spacing=2;fontColor=#4D4D4D;labelBackgroundColor=none;spacingTop=0;fontStyle=0;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="400" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-6" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-6" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-8" value="工作者阶段" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-8" value="工作者阶段" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="50" y="420" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-12" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-12" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="220" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-13" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-13" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="550" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-20" value="后端工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-20" value="后端工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="450" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-21" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-21" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="550" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-22" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-22" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="470" width="375" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-39" value="&lt;div&gt;英语四级&lt;br&gt;&lt;/div&gt;&lt;div&gt;《鸟哥linux私房菜》&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-39" value="&lt;div&gt;英语四级&lt;br&gt;&lt;/div&gt;&lt;div&gt;《鸟哥linux私房菜》&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="240" width="195" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-40" value="&lt;p style=&quot;line-height: 120%&quot;&gt;英语&lt;br&gt;Python语法&lt;br&gt;数据结构&lt;br&gt;Mysql、postgresql、redis等数据库&lt;br&gt;Linux操作系统&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-40" value="&lt;p style=&quot;line-height: 120%&quot;&gt;英语&lt;br&gt;Python语法&lt;br&gt;数据结构&lt;br&gt;Mysql、postgresql、redis等数据库&lt;br&gt;Linux操作系统&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-41" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-41" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="570" width="235" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-42" value="&lt;div&gt;django、flask、tonador官方文档&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-42" value="&lt;div&gt;django、flask、tonador官方文档&lt;/div&gt;&lt;div&gt;《流畅的python》&lt;/div&gt;《Effective Python》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="570" width="235" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-43" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-43" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="840" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-44" value="算法工程师" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-44" value="算法工程师" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="740" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-45" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-45" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="840" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-46" value="&lt;div&gt;多了解一些常见的推荐算法，视频识别算法。&lt;/div&gt;&lt;div&gt;熟练掌握tensoflow和pytorch等框架。&lt;/div&gt;&lt;div&gt;打好数学基础！熟读概率论。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-46" value="&lt;div&gt;多了解一些常见的推荐算法，视频识别算法。&lt;/div&gt;&lt;div&gt;熟练掌握tensoflow和pytorch等框架。&lt;/div&gt;&lt;div&gt;打好数学基础！熟读概率论。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="760" width="375" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-47" value="&lt;div&gt;opencv&lt;/div&gt;&lt;div&gt;tensorflow、pytorch 框架&lt;br&gt;&lt;/div&gt;&lt;div&gt;resnet、yolov1-v4、GAN等经典网络&lt;/div&gt;&lt;div&gt;概率论、微积分、线性代数&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-47" value="&lt;div&gt;opencv&lt;/div&gt;&lt;div&gt;tensorflow、pytorch 框架&lt;br&gt;&lt;/div&gt;&lt;div&gt;resnet、yolov1-v4、GAN等经典网络&lt;/div&gt;&lt;div&gt;概率论、微积分、线性代数&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="860" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-48" value="&lt;div&gt;《深度学习》（花书）&lt;/div&gt;&lt;div&gt;《机器学习》（西瓜书）&lt;/div&gt;&lt;div&gt;《概率论与数理统计》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-48" value="&lt;div&gt;《深度学习》（花书）&lt;/div&gt;&lt;div&gt;《机器学习》（西瓜书）&lt;/div&gt;&lt;div&gt;《概率论与数理统计》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="860" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-49" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-49" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="1125" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-50" value="测试工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-50" value="测试工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1025" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-51" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-51" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1125" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-52" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-52" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1045" width="375" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-53" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1145" width="235" height="110" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-53" value="pytest" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1145" width="235" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-54" value="&lt;div&gt;django、flask、tonador官方文档&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-54" value="《pytest测试实战》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="1145" width="235" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="30" y="1310" width="790" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-115" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-115" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="40" y="1910" width="770" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-116" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-116" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="40" y="1620" width="770" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-117" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-117" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="40" y="1344" width="770" height="256" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-118" value="工作者阶段" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-118" value="负责人阶段" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="50" y="1320" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-119" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-119" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="1450" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-120" value="后端工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-120" value="后端工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1350" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-121" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-121" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1450" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-122" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-122" value="&lt;div&gt;要成长为一个团队的负责人，&lt;/div&gt;&lt;div&gt;此时不应局限于后端，应同时接触并学习前端的一些框架与概念，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1370" width="375" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-123" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1470" width="235" height="110" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-123" value="&lt;p style=&quot;line-height: 120%&quot;&gt;熟读django、flask、tornado源码&lt;/p&gt;&lt;p style=&quot;line-height: 120%&quot;&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1470" width="235" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-124" value="&lt;div&gt;django、flask、tonador官方文档&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1470" width="235" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-125" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-125" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="1740" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-126" value="算法工程师" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-126" value="算法工程师" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1640" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-127" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-127" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1740" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-128" value="&lt;div&gt;多了解一些常见的推荐算法，视频识别算法。&lt;/div&gt;&lt;div&gt;熟练掌握tensoflow和pytorch等框架。&lt;/div&gt;&lt;div&gt;打好数学基础！熟读概率论。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-128" value="&lt;div&gt;多了解一些常见的推荐算法，视频识别算法。&lt;/div&gt;&lt;div&gt;熟练掌握tensoflow和pytorch等框架。&lt;/div&gt;&lt;div&gt;打好数学基础！熟读概率论。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1660" width="375" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-129" value="&lt;div&gt;opencv&lt;/div&gt;&lt;div&gt;tensorflow、pytorch 框架&lt;br&gt;&lt;/div&gt;&lt;div&gt;resnet、yolov1-v4、GAN等经典网络&lt;/div&gt;&lt;div&gt;概率论、微积分、线性代数&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-129" value="&lt;div&gt;opencv&lt;/div&gt;&lt;div&gt;tensorflow、pytorch 框架&lt;br&gt;&lt;/div&gt;&lt;div&gt;resnet、yolov1-v4、GAN等经典网络&lt;/div&gt;&lt;div&gt;概率论、微积分、线性代数&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1760" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-130" value="&lt;div&gt;《深度学习》（花书）&lt;/div&gt;&lt;div&gt;《机器学习》（西瓜书）&lt;/div&gt;&lt;div&gt;《概率论与数理统计》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-130" value="&lt;div&gt;《深度学习》（花书）&lt;/div&gt;&lt;div&gt;《机器学习》（西瓜书）&lt;/div&gt;&lt;div&gt;《概率论与数理统计》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="1760" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-131" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-131" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="425" y="2025" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-132" value="测试工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-132" value="测试工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1925" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-133" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-133" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="2025" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-134" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-134" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="1945" width="375" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-135" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-135" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="55" y="2045" width="235" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-136" value="&lt;div&gt;django、flask、tonador官方文档&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="2045" width="235" height="50" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-136" value="《python》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2040" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAcBqdveJcMJWKJadwkK-138" value="《python源码剖析》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1480" width="235" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
