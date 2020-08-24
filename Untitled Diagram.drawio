@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T11:55:08.768Z" agent="5.0 (Windows)" etag="618t2LW2pOUINRIBDyb3" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T11:57:40.020Z" agent="5.0 (Windows)" etag="c2ix9Z-QxZXZPSiaLgyO" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
     <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-22" value="&lt;div&gt;此时的学习应以工作中常用的框架为主，&lt;/div&gt;&lt;div&gt;在项目实战中学习。了解一些并发机制，&lt;/div&gt;&lt;div&gt;分布式开发的原理。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="205" y="466" width="375" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-39" value="&lt;div&gt;英语四级&lt;br&gt;&lt;/div&gt;&lt;div&gt;《鸟哥linux私房菜》&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-39" value="&lt;div&gt;英语四级&lt;br&gt;&lt;/div&gt;&lt;div&gt;《鸟哥linux私房菜》&lt;/div&gt;&lt;div&gt;《Python编程：从入门到实践》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="450" y="247" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-40" value="&lt;p style=&quot;line-height: 120%&quot;&gt;英语&lt;br&gt;Python语法&lt;br&gt;数据结构&lt;br&gt;Mysql、postgresql、redis等数据库&lt;br&gt;Linux操作系统&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-51" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="205" y="969" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-52" value="&lt;div&gt;此时就熟悉工作中的测试流程，&lt;/div&gt;&lt;div&gt;熟悉常用测试框架和编写测试文档为主。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-52" value="&lt;div&gt;此时应熟悉工作中的测试流程，&lt;/div&gt;&lt;div&gt;熟悉常用测试框架和编写测试文档为主。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="205" y="921" width="375" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-53" value="&lt;div&gt;pytest&lt;/div&gt;&lt;div&gt;unittest&lt;/div&gt;&lt;div&gt;Robot Framework&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lettuce&lt;/div&gt;&lt;div&gt;Nose&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
