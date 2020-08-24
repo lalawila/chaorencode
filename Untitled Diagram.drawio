@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T11:26:46.473Z" agent="5.0 (Windows)" etag="W-qeN7oN3ZMz9ODvEqMR" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T11:27:43.948Z" agent="5.0 (Windows)" etag="U66LHogoBDFt8OPEMii4" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
     <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,11 +70,11 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-40" value="&lt;p style=&quot;line-height: 120%&quot;&gt;英语&lt;br&gt;Python语法&lt;br&gt;数据结构&lt;br&gt;Mysql、postgresql、redis等数据库&lt;br&gt;Linux操作系统&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="200" y="247" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-41" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tonador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-41" value="&lt;p style=&quot;line-height: 120%&quot;&gt;django、flask、tornador 等各类框架&lt;br&gt;resful api 接口&lt;br&gt;ORM数据模型&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="205" y="566" width="235" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-42" value="&lt;div&gt;django、flask、tonador官方文档&lt;/div&gt;&lt;div&gt;《网络是怎样连接的》&lt;br&gt;&lt;/div&gt;《Effective Python》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="450" y="566" width="235" height="50" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-42" value="&lt;div&gt;django、flask、tornador官方文档&lt;/div&gt;&lt;div&gt;《网络是怎样连接的》&lt;br&gt;&lt;/div&gt;&lt;div&gt;《Effective Python》&lt;/div&gt;&lt;div&gt;《流畅的python》&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="447.5" y="571" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-43" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="450" y="759" width="85" height="20" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-53" value="&lt;div&gt;pytest&lt;/div&gt;&lt;div&gt;unittest&lt;/div&gt;&lt;div&gt;Robot Framework&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lettuce&lt;/div&gt;&lt;div&gt;Nose&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="205" y="989" width="145" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-54" value="&lt;div&gt;《pytest测试实战》&lt;/div&gt;&lt;div&gt;《流畅的python》&lt;/div&gt;&lt;div&gt;《Selenium 2自动化测试实战 》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-54" value="&lt;div&gt;《pytest测试实战》&lt;/div&gt;&lt;div&gt;《Selenium 2自动化测试实战 》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="450" y="989" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Comic Sans MS;" parent="1" vertex="1">
