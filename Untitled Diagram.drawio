@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T11:34:53.822Z" agent="5.0 (Windows)" etag="1e4mMyOn42Wucp0BnOH3" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T11:48:47.747Z" agent="5.0 (Windows)" etag="Q9hflYn7LOWTIO9eWA7D" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
     <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-46" value="&lt;div&gt;多了解一些常见的推荐算法，视频识别算法。&lt;/div&gt;&lt;div&gt;熟练掌握tensoflow和pytorch等框架。&lt;/div&gt;&lt;div&gt;打好数学基础！熟读概率论。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="205" y="699" width="375" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-47" value="&lt;div&gt;opencv&lt;/div&gt;&lt;div&gt;tensorflow、pytorch 框架&lt;br&gt;&lt;/div&gt;&lt;div&gt;resnet、yolov1-v4、GAN等经典网络&lt;/div&gt;&lt;div&gt;概率论、微积分、线性代数&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="205" y="779" width="205" height="80" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-47" value="&lt;div&gt;opencv&lt;/div&gt;&lt;div&gt;梯度下降&lt;br&gt;&lt;/div&gt;&lt;div&gt;tensorflow、pytorch 框架&lt;br&gt;&lt;/div&gt;&lt;div&gt;resnet、yolov1-v4、GAN等经典网络&lt;/div&gt;&lt;div&gt;概率论、微积分、线性代数&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="205" y="770" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-48" value="&lt;div&gt;《深度学习》（花书）&lt;/div&gt;&lt;div&gt;《机器学习》（西瓜书）&lt;/div&gt;&lt;div&gt;《概率论与数理统计》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="450" y="779" width="235" height="80" as="geometry" />
