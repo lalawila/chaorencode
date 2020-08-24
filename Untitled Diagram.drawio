@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T10:35:41.377Z" agent="5.0 (Windows)" etag="fm1dwDxNmLVYRrlhEElm" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T10:38:31.776Z" agent="5.0 (Windows)" etag="D4Gfk7wv77PHgj6NNGMW" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,25 +161,25 @@
           <mxGeometry x="447.5" y="1530" width="235" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-131" value="推荐学习资料" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="1720" width="85" height="20" as="geometry" />
+          <mxGeometry x="455" y="1712" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-132" value="测试工程师" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;fontStyle=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="207.5" y="1655" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-133" value="知识点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="207.5" y="1720" width="85" height="20" as="geometry" />
+          <mxGeometry x="207.5" y="1712" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-134" value="总结文档，研究原理，管理测试团队为主。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="207.5" y="1675" width="375" height="60" as="geometry" />
+        <mxCell id="UAcBqdveJcMJWKJadwkK-134" value="&lt;div&gt;以能制定测试文档的规范，&lt;/div&gt;&lt;div&gt;明白各测试方案的差异，&lt;/div&gt;&lt;div&gt;以能将测试流程化， 管控团队为主。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1652" width="375" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-135" value="&lt;div&gt;了解pytest原理&lt;/div&gt;&lt;div&gt;研读Robot Framework源码&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="207.5" y="1740" width="235" height="50" as="geometry" />
+          <mxGeometry x="207.5" y="1732" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-138" value="《python源码剖析》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="1280" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-139" value="《python源码剖析》" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="447.5" y="1740" width="235" height="50" as="geometry" />
+          <mxGeometry x="450" y="1732" width="235" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
