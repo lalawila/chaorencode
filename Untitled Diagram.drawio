@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T14:34:00.909Z" agent="5.0 (Windows)" etag="Pm7VoEXqU35qSRdFqrBW" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T01:00:08.017Z" agent="5.0 (Windows)" etag="mLvC0B0F7hoTJOnxeARL" version="13.6.4" type="github">
   <diagram id="l5rkMX41A2DQlqJ6bJBF" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-53" value="&lt;div&gt;pytest&lt;/div&gt;&lt;div&gt;unittest&lt;/div&gt;&lt;div&gt;Robot Framework&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lettuce&lt;/div&gt;&lt;div&gt;Nose&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="205" y="989" width="145" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-54" value="&lt;div&gt;《pytest测试实战》&lt;/div&gt;&lt;div&gt;《Selenium 2自动化测试实战 》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-54" value="&lt;div&gt;《pytest测试实战》&lt;/div&gt;&lt;div&gt;《Selenium 2自动化测试实战 》&lt;br&gt;&lt;/div&gt;&lt;div&gt;《Python Linux系统管理与自动化测试》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="450" y="989" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAcBqdveJcMJWKJadwkK-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -178,7 +178,7 @@
         <mxCell id="UAcBqdveJcMJWKJadwkK-138" value="&lt;div&gt;《python源码剖析》&lt;/div&gt;&lt;div&gt;《计算机网络》&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="1290" width="235" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UAcBqdveJcMJWKJadwkK-139" value="&lt;div&gt;《python源码剖析》&lt;/div&gt;&lt;div&gt;《Google软件测试之道》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="UAcBqdveJcMJWKJadwkK-139" value="&lt;div&gt;《python源码剖析》&lt;/div&gt;&lt;div&gt;《Google软件测试之道》&lt;br&gt;&lt;/div&gt;&lt;div&gt;《Python Web开发：测试驱动方法》&lt;/div&gt;&lt;div&gt;《Python渗透测试编程技术 方法与实践》&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;&#xa;lineHeight=20px;labelBorderColor=none;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="450" y="1760" width="235" height="50" as="geometry" />
         </mxCell>
       </root>
